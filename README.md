@@ -1,11 +1,19 @@
-"This repository contains projects and case studies related to the ola data Datasets . It includes data cleaning, analysis, visualization, and insights using tools like SQL, Python, and Power Bi. The goal is to apply real-world data analytics techniques to solve business problems and derive actionable insights."
- # OLA Data Analyst Project
-## Table Of Contents
-Introduction
-Overview of Ola Project 
-Business Objective
-Data Cleaning & Preparation
-Data Loading and Inspection
-Handling Missing Values
-Data Cleaning and Formatting
-Exploratory Data Analysis (EDA)
+# AI Chatbot with Intent Recognition
+
+A Python-based chatbot using **OpenAI API** and **LangChain**, capable of handling basic Q&A with intent recognition.
+
+## Features
+- Intent detection (85% accuracy on test queries)
+- Dynamic response generation
+- Contextual conversation flow
+
+## Technologies
+- Python 3.x
+- OpenAI GPT
+- LangChain
+- spaCy/NLTK
+
+## Setup
+1. Install requirements:
+   ```bash
+   pip install -r requirements.txt
