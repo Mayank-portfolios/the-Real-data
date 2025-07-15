@@ -1,6 +1,6 @@
 # AI Chatbot with Intent Recognition
 
-A Python-based chatbot using **OpenAI API** and **LangChain**, capable of handling basic Q&A with intent recognition.
+A Python-based chatbot using **OpenAI API** and **LangChain**,**RAG**, capable of handling basic Q&A with intent recognition.
 
 ## Features
 - Intent detection (85% accuracy on test queries)
